@@ -1,0 +1,20 @@
+.commentTextarea {
+  min-height: 10vh;
+  width: 75%;
+  word-break: break-word;
+  white-space: normal;
+  float: right;
+}
+
+.postButton {
+  float: right;
+  min-width: 8vh;
+  height: 30px;
+}
+
+.wrapper {
+  width: 54%;
+  min-height: 10vh;
+  border: none;
+  background-color: white;
+}

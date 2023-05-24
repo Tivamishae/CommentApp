@@ -1,0 +1,9 @@
+.wholeLoginPage {
+  height: 100vh;
+  background-image: url("../../images/neptune-animated.jpeg");
+  background-size: cover;
+}
+
+.textLogin {
+  font-size: 3rem;
+}

@@ -1,0 +1,22 @@
+.chatborder {
+  border-style: solid;
+  border-left: none;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  padding-right: 20px;
+  padding-left: 15px;
+  overflow: auto;
+  color: black;
+  max-height: 70vh;
+  min-height: 70vh;
+  width: calc(100% - 257px);
+}
+
+.username {
+  color: black;
+  max-height: 2vh;
+}

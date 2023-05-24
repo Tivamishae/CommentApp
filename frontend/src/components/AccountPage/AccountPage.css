@@ -1,0 +1,79 @@
+.accountborder {
+  border-style: solid;
+  border: none;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  padding-right: 20px;
+  padding-left: 15px;
+  overflow: auto;
+  color: black;
+  max-height: 70vh;
+  width: calc(100% - 300px);
+}
+
+.accCommentsSide {
+  width: 47vh;
+  float: right;
+  height: 56vh;
+  background-color: black;
+}
+
+.accDetailsSide {
+  width: 40vh;
+  float: left;
+  height: 55vh;
+  border: none;
+}
+
+.chatborderaccountpage {
+  width: 45vh;
+  height: 55vh;
+  float: right;
+  border-width: 100px;
+  background-color: black;
+  overflow: auto;
+}
+
+.username {
+  color: black;
+  max-height: 2vh;
+}
+
+.containerButton {
+  height: 60vh;
+  width: 90vh;
+}
+
+.accDetailsText {
+  font-size: 1rem;
+}
+
+.inputUpdateDetails {
+  float: left;
+  width: 200px;
+  height: 30px;
+  font-size: 0.8rem;
+}
+
+.updateDetailsButton {
+  float: left;
+  height: 36px;
+}
+
+.pushupBig {
+  height: 150px;
+  border: none;
+}
+
+.pushupSmall {
+  height: 70px;
+  border: none;
+}
+
+.accountText {
+  color: black;
+}

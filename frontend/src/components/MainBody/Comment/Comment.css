@@ -1,0 +1,33 @@
+.Comment {
+  font-size: small;
+}
+
+.commentUser {
+  float: left;
+  width: 15%;
+  height: 100px;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+}
+
+.commentDate {
+  float: left;
+  width: 15%;
+  height: 100px;
+  border-bottom: none;
+  border-right: none;
+  border-left: none;
+  word-wrap: break-word;
+}
+
+.commentText {
+  float: left;
+  width: 70%;
+  height: 100px;
+  word-wrap: break-word;
+  background-color: white;
+  border-left: none;
+  border-bottom: none;
+  border-right: none;
+}

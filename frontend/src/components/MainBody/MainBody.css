@@ -1,0 +1,9 @@
+.MainBody {
+  min-height: 100vh;
+}
+
+.Username {
+  max-height: 10vh;
+  color: black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
